@@ -336,7 +336,7 @@ export default function Portfolio() {
       <section className="hero" id="home">
         <div className="hero-content">
           <div className="hero-badge">Available for opportunities</div>
-          <h1 className="hero-name">Yoshani Avishka</h1>
+          <h1 className="hero-name">Nawanka Thathsara</h1>
           <div className="hero-title-row">
             <span className="hero-title-static">// </span>
             <span className="hero-title-type">{title}</span>
