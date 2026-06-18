@@ -379,7 +379,7 @@ export default function Portfolio() {
           <div className="hex-ring hex-ring--inner" />
           <div className="hex-photo">
             <img
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face"
+              src="hhttps://drive.google.com/drive/u/0/home"
               alt="Alex Morgan"
               className="profile-img"
             />
