@@ -379,8 +379,8 @@ export default function Portfolio() {
           <div className="hex-ring hex-ring--inner" />
           <div className="hex-photo">
             <img
-              src="hhttps://drive.google.com/drive/u/0/home"
-              alt="Alex Morgan"
+              src="profile.jpeg"
+              alt="Nawanka Thathsara"
               className="profile-img"
             />
           </div>
