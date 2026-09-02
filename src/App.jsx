@@ -584,7 +584,7 @@ export default function App() {
               <span className="eyebrow">Next step</span>
               <h2 className="contact__title">Have a system to build — or a team that needs to run one?</h2>
               <p className="contact__lead">
-                I'm open to software engineering and junior software trainer roles. Tell me what you're
+                I'm open to software engineering and software trainer roles. Tell me what you're
                 working on and I'll get back to you.
               </p>
             </Reveal>
