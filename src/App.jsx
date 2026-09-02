@@ -178,6 +178,7 @@ const CONTACT = [
 ];
 
 const CV_FILE = "/Nawanka-Thathsara-CV.pdf";
+const CV_DOWNLOAD_NAME = "Nawanka Thathsara CV.pdf";
 
 /* ------------------------------------------------------------------
    HOOKS / SMALL COMPONENTS
@@ -374,7 +375,7 @@ export default function App() {
                 <a className="btn btn--primary" href="#projects">
                   See my work
                 </a>
-                <a className="btn btn--ghost" href={CV_FILE} download>
+                <a className="btn btn--ghost" href={CV_FILE} download={CV_DOWNLOAD_NAME}>
                   Download CV
                 </a>
               </div>
@@ -618,7 +619,7 @@ export default function App() {
         <div className="wrap footer__inner">
           <span>© {new Date().getFullYear()} Nawanka Thathsara</span>
           <span>
-             <a href={CV_FILE} download>Download CV</a>
+             <a href={CV_FILE} download={CV_DOWNLOAD_NAME}>Download CV</a>
           </span>
         </div>
       </footer>
